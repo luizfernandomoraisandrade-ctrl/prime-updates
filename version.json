@@ -1,5 +1,5 @@
 {
-  "versao": "8.8.0",
-  "url": "https://github.com/luizfernandomoraisandrade-ctrl/prime-updates/releases/latest",
-  "notas": "Versão inicial do mecanismo de atualização (Etapa 12-F)."
+  "versao": "8.13.0",
+  "url": "https://github.com/luizfernandomoraisandrade-ctrl/prime-updates/releases/download/v8.13.0/PRIME-Setup-8.13.0.exe",
+  "notas": "Chave da API digitada por máquina (campo 🔑 da aba Dossiê), complemento OCR em instalador separado, extração da data de casamento e extração de endereço (matrícula, IPTU, comprovante, IRPF)."
 }
